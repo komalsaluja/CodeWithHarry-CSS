@@ -1,0 +1,15 @@
+#first {
+background-color: aquamarine;
+}
+#second {
+    background-color: antiquewhite;
+}
+.red {
+    color: red;
+}
+.bg-blue {
+    background-color: blue;
+    border-color: purple;
+    border-width: 5px;
+    color: white;
+}
